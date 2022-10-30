@@ -1,0 +1,150 @@
+body{
+	background: url(../images/bg3.jpg);
+	background-position: center;
+}
+
+
+p:hover{
+	text-shadow: 0px 0px 20px none;
+}
+header ul li{
+	transition: 0.15s;
+	text-shadow: 0px 0px 2px black;
+	font-weight: 800px;
+	font-size: 15px;
+}
+/*header nav ul li a*/header ul li:hover{
+	margin-left: 3px;
+	font-size: 17px;
+	background: #b58150;
+	border-radius: 15px;
+	
+	box-shadow: 0px 3px 10px black;
+
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+.wood a:hover{
+	margin-left: 3px;
+	font-size: 17px;
+	background: #b58150;
+	border-radius: 15px;
+	
+	box-shadow: 0px 3px 10px black;
+
+}
+header .navbar-{
+		max-width: 991px;
+		background: url(../images/b-b.jpg);
+		
+}
+}
+#intro .container .row .col-8 h5:hover{
+    margin: 5px 5px 5px 5px;
+	transition: 0.6s;
+	
+}
+#intro .container .row .col-8 h5:hover{
+	font-size: 40px;
+	text-shadow: 0px 0px 25px white;
+
+}
+#intro .container .row .col-8 p:first-letter{
+	font-family: serif;
+	font-size: 40px;
+	font-weight: bold;
+}
+.nav-bg{
+	background: url(../images/bg3.jpg);
+	background-position: center;
+}
+.slide-p{
+	background: transparent;
+	color: white;
+}
+.slide-h{
+	background: transparent;
+	color: white;
+	transition: 0.6s;
+}
+.slide-h:hover{
+	font-size: 30px;
+}
+#blogs .card .container{
+	text-align: right;
+}
+#blogs .card .container a:hover{
+	color: red;
+	text-decoration: none;
+	text-shadow: 0px 0px 3px red;
+}
+#blogs .card .container a:focus{
+	color: red;
+	text-decoration: none;
+	text-shadow: 0px 0px 3px red;
+}
+#blogs .card .container a:active{
+	color: red;
+	text-decoration: none;
+	text-shadow: 0px 0px 3px red;
+}
+.c-bg{
+	background: url(../images/bg1.jpg);
+	border-radius: 0px 0px 10px 10px;
+}
+.c-b{
+	border-radius: 10px;
+	box-shadow: 0px 0px 25px #56342A;
+}
+.cb{
+	border-radius: 10px 10px 0px 0px;
+}
+.b-bg{
+	background: url(../images/b-b.jpg);
+	background-position: center;
+	border-radius: 10px;
+}
+.b-c{
+	border-radius: 10px 10px 0px 0px;
+}
+.con-bg{
+		background-position: justify;
+		background: url(../images/con-bg.jpg);
+		box-shadow: 0px 0px 40px white;
+}
+}
+.cs{
+	width: 100%;
+}
+@media {.cs{
+	max-height: 200px;
+}
+}
+.con-ls{
+    max-height: 40px;
+	background: transparent; 
+	/*text-align: center;*/
+}
+.icon{
+	width: 50px;
+	height: 50px;
+	box-shadow: 1px 1px 10px;
+	transition: 0.05s;
+	border-radius: 70%;
+}
+.icon:hover{
+	width: 55px;
+	height:55px;
+
+}
+@media{.foot{
+	max-height:40;
+}}
+footer{
+	justify-content: flex;
+	align-content: flex-start;
+	text-align: center;
+	font-weight: bolder;
+}
